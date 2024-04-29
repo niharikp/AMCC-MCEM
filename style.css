@@ -934,6 +934,10 @@ body{
 	color:#757575;
 	line-height: 1.5;
 }
+.Feautes a.hyperlink {
+    color: #1a76d1;
+    text-decoration: underline;
+}
 .Feautes{
 	padding-top:0;
 }
